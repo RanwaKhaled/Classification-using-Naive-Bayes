@@ -1,4 +1,3 @@
-## `Name` Ranwa Khaled Fathy Metwally, `ID` 2203153
 # Classification-using-Naive-Bayes
 In this notebook the **Naive Bayes** algorithm was used to predict the income of some people, in 2 classes:
 * *<=50K*
